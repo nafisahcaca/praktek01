@@ -11,4 +11,17 @@ package praktek01;
  */
 public class mahasiswa {
     
+    String nama;
+     String NPM;
+      String kelas;
+       String jurusan;
+       double IPK;
+       
+       void cetakinfo(){
+           system.out.println("nama :"+nama);
+           system.out.println("NPM :"+NPM);
+           system.out.println("kelas :"+kelas);
+           system.out.println("jurusan :+jurusan");
+            system.out.println("IPK :"+IPK);
+       }
 }
