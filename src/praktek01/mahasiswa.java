@@ -18,10 +18,10 @@ public class mahasiswa {
        double IPK;
        
        void cetakinfo(){
-           system.out.println("nama :"+nama);
-           system.out.println("NPM :"+NPM);
-           system.out.println("kelas :"+kelas);
-           system.out.println("jurusan :+jurusan");
-            system.out.println("IPK :"+IPK);
+           System.out.println("nama :"+nama);
+           System.out.println("NPM :"+NPM);
+           System.out.println("kelas :"+kelas);
+           System.out.println("jurusan :"+jurusan);
+           System.out.println("IPK :"+IPK);
        }
 }
