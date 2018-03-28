@@ -18,5 +18,7 @@ public class mahasiswaaksi {
         caca.jurusan="FTI";
         caca.kelas="4F";
         caca.IPK=3.4;
+        
+        caca.cetakinfo();
     }
 }
